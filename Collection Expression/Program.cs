@@ -2,7 +2,7 @@
 // အရင်ကတော့ ကျနော်တို့ ဒီလို ရေးခဲ့တယ်... ခု ဒီအစား
 char[] vowels1 = { 'a', 'e', 'i', 'o', 'u' };
 
-// ဒီလိုမျိုး collection ကို ဿသုံးလို့ ရပြီ
+// ဒီလိုမျိုး collection ကို သုံးလို့ ရပြီ
 char[] vowels2 = ['a', 'e', 'i', 'o', 'u'];
 
 
@@ -38,7 +38,7 @@ Foo(['a', 'e', 'i', 'o', 'u']);
 
 void Foo(char[] letters) => Console.WriteLine(letters);
 
-// ီspread operator နဲ့လဲ တွဲသုံးလို့ရသေးတယ်
+// spread operator နဲ့လဲ တွဲသုံးလို့ရသေးတယ်
 Console.WriteLine("\nSpread\n---------");
 int[] odd = [1, 3, 5];
 int[] even = [2, 4, 6];
