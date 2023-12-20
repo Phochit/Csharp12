@@ -29,8 +29,7 @@ foreach (var c in span)
 }
 
 
-// Second, they are target-typed, which means that you can omit the type in other
-// scenarios where the compiler can infer it, such as when calling methods:
+
 // ဒုတိယ အချက်က Method တွေမှာ အောက်ကလို type ကို ထည့်ပေးစရာ မလိုတော့ဘူး.. omit လုပ်လို့ရသွားပြီ...
 // compiler က အဲ့ဒါကို infer လုပ်နိုင်တယ်...
 Console.WriteLine("\nMethod\n---------");

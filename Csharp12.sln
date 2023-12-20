@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection Expression", "Collection Expression\Collection Expression.csproj", "{D0368A00-101C-4272-8192-5A6DE3404DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection Expression", "Collection Expression\Collection Expression.csproj", "{D0368A00-101C-4272-8192-5A6DE3404DBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary Constructor", "Primary Constructor\Primary Constructor.csproj", "{75BB1953-AA4C-425B-A96E-F005039585AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primary Constructor", "Primary Constructor\Primary Constructor.csproj", "{75BB1953-AA4C-425B-A96E-F005039585AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alias", "Alias\Alias.csproj", "{E22B0B36-ED86-4803-8B0B-B1B663F319BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alias", "Alias\Alias.csproj", "{E22B0B36-ED86-4803-8B0B-B1B663F319BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "channel", "channel\channel.csproj", "{67978063-A191-4521-A338-B88732D0ED99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic_Struct", "Automatic_Struct\Automatic_Struct.csproj", "{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{E22B0B36-ED86-4803-8B0B-B1B663F319BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E22B0B36-ED86-4803-8B0B-B1B663F319BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E22B0B36-ED86-4803-8B0B-B1B663F319BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67978063-A191-4521-A338-B88732D0ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67978063-A191-4521-A338-B88732D0ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67978063-A191-4521-A338-B88732D0ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67978063-A191-4521-A338-B88732D0ED99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
