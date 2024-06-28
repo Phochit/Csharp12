@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alias", "Alias\Alias.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "channel", "channel\channel.csproj", "{67978063-A191-4521-A338-B88732D0ED99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic_Struct", "Automatic_Struct\Automatic_Struct.csproj", "{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automatic_Struct", "Automatic_Struct\Automatic_Struct.csproj", "{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLiterals", "StringLiterals\StringLiterals.csproj", "{8CD572A8-18CA-4C1D-8164-437B31518ECD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF54E1E-B8DA-43D0-AEF0-239C0C8364DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD572A8-18CA-4C1D-8164-437B31518ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD572A8-18CA-4C1D-8164-437B31518ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD572A8-18CA-4C1D-8164-437B31518ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD572A8-18CA-4C1D-8164-437B31518ECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
